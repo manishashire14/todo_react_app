@@ -1,0 +1,59 @@
+.App {
+  /* text-align: center; */
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+body{
+  padding: 50px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  text-align: left;
+  /* justify-content: left; */
+  align-items: left;
+  /* table-layout:fixed; */
+
+  width: 50%;
+}
+
+.todomain{
+  background-color: rgb(241, 207, 241);
+  border-style: groove;
+  /* padding-right: 50px;
+  padding-left: 50px; */
+  /* margin: 100px 100px; */
+  width: 500px;
+  /* padding: 50px; */
+  
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+h1 {
+  color: rgb(128, 105, 150);
+  text-align: center;
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+h3 {
+  color: rgb(140, 61, 204);
+}
+
+/* .input {
+  width: 200px;
+  height: 30 px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+
+width: 200px, height: 30 px, font-size: 20px, fontFamily: "Arial"
+
+
+} */
